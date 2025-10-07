@@ -1,0 +1,25 @@
+{
+  "spider": "./fty.jar;md5;e85e180ec8caae0d38c78a021a2494e0",
+  "wallpaper": "https://bing.img.run/rand.php",
+  "sites": [
+    {
+      "key": "💐繁华💐音乐仓",
+      "name": "💐繁华💐音乐台",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./lib/ych.json"
+    }
+  ],
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "./lib/fm.txt",
+      "ua": "okhttp/3.15",
+      "logo": "https://live.fanmingming.com/radio/{name}.png"
+    }
+  ]
+}
