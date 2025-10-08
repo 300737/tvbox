@@ -1,23 +1,15 @@
 {
   "urls": [
 {
-      "url": "http://ns.tvbox.website:8808/box/box.json",
+      "url": "https://gh.catmak.name/https://raw.githubusercontent.com/300737/tvbox/main/box/box.json",
       "name": "💐繁华💐稳定"
-    },
-    {
-      "url": "clan://localhost/TVBoxOSC/tvbox/api.json",
-      "name": "💐繁华💐潇洒"
-    },
-        {
-      "url": "http://tvbox.fdns.fun:3368/api/api.json",
-      "name": "💐繁华💐备用"
     },
     {
       "url": "clan://localhost/tvbox/kg/kg.json",
       "name": "💐繁华💐潇洒"
     },
     {
-      "url": "http://ns.tvbox.website:8808/yinyue/yinyue.json",
+      "url": "https://gh.catmak.name/https://raw.githubusercontent.com/300737/tvbox/main/yinyue/yinyue.json",
       "name": "💐繁华💐音乐"
     },
         {
