@@ -1142,7 +1142,7 @@
     {
       "name": "AI直播",
       "type": 0,
-      "url": "./lib/interface.txt",
+      "url": "https://gh.catmak.name/https://raw.githubusercontent.com/300737/tvbox/main/iptv.txt",
       "playerType": 2,
       "timeout": 10
     },
